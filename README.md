@@ -1,1 +1,1 @@
-# Exploring-NYC-Public-School-Test-Results-Scores
+# NYC School SAT Performance Analysis - Project Summary
